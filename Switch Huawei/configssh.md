@@ -22,7 +22,7 @@
 [*HUAWEI-aaa] commit
 [~HUAWEI-aaa] local-user admin password irreversible-cipher admin2025
 [*HUAWEI-aaa] local-user admin service-type telnet ssh
-[*HUAWEI-aaa] local-user netconftest level 3
+[*HUAWEI-aaa] local-user admin level 3
 [*HUAWEI-aaa] local-user admin user-group manage-ug
 [*HUAWEI-aaa] commit
 [*HUAWEI-aaa] quit
