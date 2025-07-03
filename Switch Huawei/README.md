@@ -105,3 +105,12 @@ Simpan konfigurasi secara permanen:
 ```sh
 <HUAWEI>save  ##Pastikan berada di user-view bukan di system-view
 ```
+
+# Tambahan
+Cara masuk ke cli switch huawei menggunakan kabel console :
+1. Pasang kabel ke port Console di switch lalu sambungkan USB ke port USB Laptop/PC
+2. Buka Device Manager di Laptop/PC, cari dan perluas bagian Port (COM & LPT)
+3. Setiap port COM akan terdaftar (misal COM3)
+4. Buka Putty, dibagian Connection Type pilih yang Serial
+5. Di bagian Serial line isi dengan COM yang sesuai atau terdaftar di laptop (misal COM3)
+6. Klik Open
